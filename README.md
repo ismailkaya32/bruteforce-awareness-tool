@@ -22,12 +22,15 @@ Bu proje, **şifrelerin brute force (kaba kuvvet) saldırılarına karşı ne ka
 
 ### **1. Menü Ekranı**
 ![Menu Screen](screenshots/menu.png)
+---
 
 ### **2. Şifre Belirleme**
 ![Password Input](screenshots/password.png)
+---
 
 ### **3. Brute Force Denemeleri**
 ![Brute Force Attempts](screenshots/attempts.png)
+---
 ![Brute Force Attempts](screenshots/attempts1.png)
 
 > **Not:** `screenshots` klasörünü oluşturup, terminal görüntülerinizi oraya ekleyin.  
