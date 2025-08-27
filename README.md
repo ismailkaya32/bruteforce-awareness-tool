@@ -42,14 +42,16 @@ Bu proje, **şifrelerin brute force (kaba kuvvet) saldırılarına karşı ne ka
 1. Bu projeyi indirin:
    ```bash
    git clone https://github.com/ismailkaya32/bruteforce-awareness-tool.git
-   cd bruteforce-awareness-tool
+   cd bruteforce-awareness-tool```
 
 2.Gerekli paketleri yükleyin:
-`bash
-   pip install colorama`
+    ```bash
+    
+        pip install colorama```
 
  3. Uygulamayı Çalıştırın:
-`bash
-   python brute_force_sema14.py`
+```bash
+
+   python brute_force_sema14.py```
 
 
