@@ -12,13 +12,13 @@ Bu proje, **şifrelerin brute force (kaba kuvvet) saldırılarına karşı ne ka
   - **Sadece Harfler (a-z, A-Z)**
   - **Harf, Sayı ve Özel Karakterler (!, @, #, ...)**
 
-- **Kullanıcıdan şifre alma ve gizli olarak gösterme (****** şeklinde**)**
+- **Kullanıcıdan şifre alma ve gizli olarak gösterme(***** şeklinde)
 - **Deneme sayısı ve geçen süreyi raporlama**
 - **Renkli terminal çıktısı (Colorama ile)**
 
 ---
 
-## 📸 Ekran Görüntüsü (Önerilen)
+## 📸 Ekran Görüntüsü 
 
 ### **1. Menü Ekranı**
 ![Menu Screen](screenshots/menu.png)
