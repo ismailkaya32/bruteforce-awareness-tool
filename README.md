@@ -1,7 +1,6 @@
 # 🔐 Brute Force Awareness Tool
 
-Bu proje, **şifrelerin brute force (kaba kuvvet) saldırılarına karşı ne kadar savunmasız olabileceğini** göstermek ve **parola güvenliği konusunda farkındalık yaratmak** amacıyla hazırlanmıştır. **Gerçek saldırı amacıyla kullanılması kesinlikle yasaktır!**
-
+Bu proje, **şifrelerin brute force (kaba kuvvet) saldırılarına karşı ne kadar savunmasız olabileceğini** göstermek ve **parola güvenliği konusunda farkındalık yaratmak** amacıyla hazırlanmıştır. 
 ---
 
 ## 📌 Özellikler
@@ -48,11 +47,10 @@ Bu proje, **şifrelerin brute force (kaba kuvvet) saldırılarına karşı ne ka
 2.Gerekli paketleri yükleyin:
     ```bash
     
-        pip install colorama
+    pip install colorama
 
  3. Uygulamayı Çalıştırın:
-```bash
-
-   python3 brute_force_sema14.py
+    ```bash
+    python3 brute_force_sema14.py
 
 
