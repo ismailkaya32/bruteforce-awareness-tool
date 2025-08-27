@@ -53,6 +53,6 @@ Bu proje, **şifrelerin brute force (kaba kuvvet) saldırılarına karşı ne ka
  3. Uygulamayı Çalıştırın:
 ```bash
 
-   python brute_force_sema14.py
+   python3 brute_force_sema14.py
 
 
