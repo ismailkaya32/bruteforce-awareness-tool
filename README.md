@@ -12,7 +12,7 @@ Bu proje, **şifrelerin brute force (kaba kuvvet) saldırılarına karşı ne ka
   - **Sadece Harfler (a-z, A-Z)**
   - **Harf, Sayı ve Özel Karakterler (!, @, #, ...)**
 
-- **Kullanıcıdan şifre alma ve gizli olarak gösterme (****** şeklinde)**
+- **Kullanıcıdan şifre alma ve gizli olarak gösterme (****** şeklinde**)**
 - **Deneme sayısı ve geçen süreyi raporlama**
 - **Renkli terminal çıktısı (Colorama ile)**
 
@@ -28,6 +28,7 @@ Bu proje, **şifrelerin brute force (kaba kuvvet) saldırılarına karşı ne ka
 
 ### **3. Brute Force Denemeleri**
 ![Brute Force Attempts](screenshots/attempts.png)
+![Brute Force Attempts](screenshots/attempts1.png)
 
 > **Not:** `screenshots` klasörünü oluşturup, terminal görüntülerinizi oraya ekleyin.  
 
