@@ -12,6 +12,7 @@ Bu proje, **şifrelerin brute force (kaba kuvvet) saldırılarına karşı ne ka
   - **Sadece Harfler (a-z, A-Z)**
   - **Harf, Sayı ve Özel Karakterler (!, @, #, ...)**
 
+- **Kullanıcıdan sadece 5 karakter olarak şifre alma**
 - **Kullanıcıdan şifre alma ve gizli olarak gösterme(***** şeklinde)
 - **Deneme sayısı ve geçen süreyi raporlama**
 - **Renkli terminal çıktısı (Colorama ile)**
