@@ -45,9 +45,9 @@ Bu proje, **şifrelerin brute force (kaba kuvvet) saldırılarına karşı ne ka
    cd bruteforce-awareness-tool
 
   2.Gerekli paketleri yükleyin:
-    ```bash
-                      
-    pip install colorama
+  ```bash
+
+             pip install colorama
 
  3. Uygulamayı Çalıştırın:
     ```bash
